@@ -23,8 +23,6 @@
 			<dict/>
 			<key>LineIn</key>
 			<dict>
-				<key>MuteGPIO</key>
-				<integer>0</integer>
 				<key>SignalProcessing</key>
 				<dict>
 					<key>SoftwareDSP</key>
